@@ -1,0 +1,17 @@
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\bin\Debug\Ecosystem.exe
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\bin\Debug\Ecosystem.pdb
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.ForestEcosystem.resources
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.Properties.Resources.resources
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.csproj.GenerateResource.Cache
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.exe
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.pdb
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.exe
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.pdb
+C:\work\FE\Ecosystem\Ecosystem\bin\Debug\Ecosystem.exe
+C:\work\FE\Ecosystem\Ecosystem\bin\Debug\Ecosystem.pdb
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.Properties.Resources.resources
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexey\Desktop\forest ecosystem\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.csprojResolveAssemblyReference.cache
+C:\work\FE\Ecosystem\Ecosystem\obj\x86\Debug\Ecosystem.ForestEcosystem.resources
